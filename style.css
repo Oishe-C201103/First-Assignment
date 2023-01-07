@@ -1,0 +1,127 @@
+.image{
+    background-image: url(./images/banner/banner2.png);
+    text-align: right;
+    font-size: xx-large;
+    padding: 170px;
+}
+button{
+    color: white;
+    background-color: orangered;
+    height: 40px;
+    border: none;
+    font-size: medium;
+    border-radius: 4px;
+}
+p{
+   font-size: large;
+}
+.second{
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+}
+.gradi{
+    background-image: url("./images/gradient2.png"), url("./images/watch.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 70px 250px 50px 250px;
+    padding: 30px;
+    padding-right: 30px;
+    height: 180px;
+    border-radius: 5px;
+}
+.failures h2{
+    padding-top: 250px;
+    font-size: 40px;
+}
+ul{
+    list-style: none;
+    padding-left: 0px;
+    font-size: 17px;
+}
+i{
+    color: rgb(13, 224, 13);
+}
+.plans h2{
+    font-size: 35px;
+    text-align: center;
+}
+.icons1{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+}
+.plans{
+    text-align: center;
+}
+.icons1 p{
+    color: grey;
+}
+.call{
+    background-color: white;
+    color: orangered;
+    width: 130px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 50px;
+}
+.box{
+    font-size: 40px;
+    font-weight: 70px;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.contact{
+    background-color: orangered;
+    color: white;
+    width: 130px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    height: 50px;
+}
+/* footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 400px;
+    padding: 100px 300px 0 300px;
+    gap: 300px;
+} */
+.icons2{
+     display: flex;
+    gap: 20px;
+}
+input{
+    font-size: 35px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: black;
+    color: gray;
+    height: 30px;
+    width: 250px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.ftr{
+    background-color: black;
+    color: white;
+    display: flex;
+    gap: 300px;
+    height: 400px;
+    align-items: center;
+    padding: 100px 300px 0 300px;
+}
+.bottom1{
+    margin-bottom: 80px;
+}
+.bottom2{
+    margin-bottom: 210px; 
+}
